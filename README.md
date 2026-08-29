@@ -14,4 +14,4 @@ This repo exists so you can get comfortable with the basic loop of contributing 
 
 ## Usage
 
-There isnt any code to run here yet, its just a starting point.
+There isn't any code to run here yet, it's just a starting point.
